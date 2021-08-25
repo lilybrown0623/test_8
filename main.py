@@ -3,5 +3,4 @@ import json
 from discord.ext import commands
 client = commands.Bot(command_prefix = '@', activity=discord.Game("Hello!"), intents = discord.Intents.all())
 client.remove_command('help')
-token  = 'ODI4NjYzMzAyOTA5MzI5NDA5.YGs21w.do82eqnHGCS03FpIvqtHyoZ2jm4'
-client.run(token) 
+client.run('ODI4NjYzMzAyOTA5MzI5NDA5.YGs21w.JKpIXFBQBlaDBOeDbrLf5Rq3WKA') 
