@@ -29,7 +29,6 @@ async def bal(ctx):
         await ctx.send(f"You got {balance} in your wallet")
     
         
-
-id1 = "ODI4NjYzMzAyOTA5MzI5NDA5.YGs21w."
-id2 = "3avVqGIv-dDXgDtG7bspk3ZvjYs"
+id1 = "ODI4NTE0MDEyMDEzNzg5MjE2.YGqrzQ."
+id2 = "Q2X1KVt8F1OvNrAqBsubDaQo5do"
 client.run(id1 + id2) 
